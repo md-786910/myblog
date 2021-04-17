@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#formControl {
+    color: rgb(14, 207, 255);
+    background-color: rgb(20, 30, 57);
+}
+
+#submitbtn {
+    margin-left: 5em;
+    margin-top: 1em;
+}
+
+.btn {
+    background-color: rgb(20, 30, 57);
+    color: rgb(14, 207, 255);
+    outline: 2px solid white;
+}

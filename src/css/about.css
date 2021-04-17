@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#tagabout {
+    text-align: center;
+}
+
+#ourdemo {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(245, 241, 248);
+    flex-direction: column;
+    width: 50%;
+}
+
+#content {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(14, 207, 255);
+    white-space: pre-line;
+    line-height: 1.8em;
+}
+
+#btnmore {
+    text-align: center;
+    background-color: rgb(20, 20, 20);
+    color: rgb(14, 207, 255);
+    width: 310%;
+}

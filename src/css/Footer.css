@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+footer {
+    background-color: white;
+}
+
+footer p {
+    /* display: flex; */
+    /* justify-content: center; */
+    /* text-align: end; */
+    color: crimson;
+}

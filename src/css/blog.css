@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: azure;
+}
+
+#Blog {
+    text-align: center;
+    text-decoration: underline;
+}
+
+#contentColor, #blogcontent {
+    color: royalblue;
+}
+
+a {
+    color: red;
+}
+
+.callout {
+    background-color: black;
+    color: white;
+}
+
+#blogcontent {
+    font-family: 'Times New Roman', Times, serif;
+    width: 50%;
+    line-height: 1.8em;
+    word-spacing: 0.7em;
+}

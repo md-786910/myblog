@@ -1,0 +1,69 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#container {
+    margin-top: 2em;
+    display: flex;
+    /* margin-left: 8em; */
+    justify-content: space-evenly;
+    /* text-align: center; */
+    position: relative;
+    z-index: 0;
+}
+
+#ourCourse {
+    /* background-color: rgb(20, 30, 57); */
+}
+
+#coursefull {
+    margin-top: 2em;
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    z-index: 0;
+}
+
+img {
+    height: 18rem;
+    transition: all;
+    transition-duration: 1s;
+}
+
+img:hover {
+    transform: scale(1.1, 1.1);
+}
+
+#btnClick {
+    text-align: center;
+    width: 30%;
+    font-size: 1.1em;
+    margin-top: 1em;
+    background-color: rgb(20, 30, 57);
+    color: rgb(14, 207, 255);
+    height: 2em;
+}
+
+#main {
+    margin-top: 2em;
+}
+
+#content {
+    padding-top: 1em;
+    background-color: rgb(20, 30, 57);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 1em;
+}
+
+#imageSponser {
+    border-radius: 10px;
+    height: 6em;
+    width: 8%;
+}
